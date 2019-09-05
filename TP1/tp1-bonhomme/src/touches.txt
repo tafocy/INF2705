@@ -1,0 +1,27 @@
+    q:  Quitter l'application
+    x:  Activer/désactiver l'affichage des axes
+    i:  Réinitiliaser le point de vue et le bonhomme
+    g:  Permuter l'affichage en fil de fer ou plein
+    c:  Permuter l'affichage des faces arrières
+    l:  Utiliser LookAt ou Translate+Rotate pour placer la caméra
+    m:  Choisir le modèle affiché: cube, théière
+    MOINS:  Reculer la caméra
+    PLUS:  Avancer la caméra
+    DROITE:  Déplacer le bonhomme vers +X
+    GAUCHE:  Déplacer le bonhomme vers -X
+    PAGEPREC:  Déplacer le bonhomme vers +Y
+    PAGESUIV:  Déplacer le bonhomme vers -Y
+    HAUT:  Déplacer le bonhomme vers +Z
+    BAS:  Déplacer le bonhomme vers -Z
+    f:  Diminuer la taille du corps
+    r:  Augmenter la taille du corps
+    VIRGULE:  Diminuer l'angle de rotation du bonhomme
+    POINT:  Augmenter l'angle de rotation du bonhomme
+    o:  Diminuer l'angle des jambes
+    p:  Augmenter l'angle des jambes
+    j:  Diminuer l'angle des ailes
+    u:  Augmenter l'angle des ailes
+    b:  Incrémenter la dimension de la boite
+    h:  Décrémenter la dimension de la boite
+    ESPACE:  Mettre en pause ou reprendre l'animation
+    BOUTON_GAUCHE:  Déplacer (modifier angles) la caméra
