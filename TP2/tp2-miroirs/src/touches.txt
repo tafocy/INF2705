@@ -1,0 +1,16 @@
+    q:  Quitter l'application
+    x:  Activer/désactiver l'affichage des axes
+    v:  Recharger les fichiers des nuanceurs et recréer le programme
+    ESPACE:  Mettre en pause ou reprendre l'animation
+    c:  Déplacer le plan de rayonsX vers la droite (-X)
+    z:  Déplacer le plan de rayonsX vers la gauche (+X)
+    DROITE:  Augmenter la dimension de la boîte en X
+    GAUCHE:  Diminuer la dimension de la boîte en X
+    HAUT:  Augmenter la dimension de la boîte en Y
+    BAS:  Diminuer la dimension de la boîte en Y
+    PLUS:  Incrémenter la distance de la caméra
+    MOINS:  Décrémenter la distance de la caméra
+    a:  Atténuer ou non la couleur selon la profondeur
+    BOUTON_GAUCHE:  Modifier le point de vue
+    BOUTON_DROIT:  Sélectionner des objets
+    Molette:  Changer la distance de la caméra
