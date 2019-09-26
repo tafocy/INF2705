@@ -1,4 +1,4 @@
-#version 410
+﻿#version 410
 
 uniform mat4 matrModel;
 uniform mat4 matrVisu;
@@ -20,7 +20,10 @@ void main( void )
 {
     // transformation standard du sommet
     gl_Position = matrProj * matrVisu * matrModel * Vertex;
-
+    vec4 pos = matrModel * Vertex;
+	
+    gl_ClipDistance[0]=dot(planRayonsX,pos);
+    gl_ClipDistance[1]=-dot(planRayonsX,pos);
     // couleur du sommet
     AttribsOut.couleur = Color;
 
