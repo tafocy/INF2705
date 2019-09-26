@@ -177,36 +177,31 @@ public:
     }
 
     // afficher le contenu de l'aquarium
-	void afficherContenu(GLenum ordre = GL_CCW)
-	{
+    void afficherContenu( GLenum ordre = GL_CCW )
+    {
 		// partie 1: modifs ici ...
 
 			 // afficher les poissons en plein et en fil de fer en tenant compte du plan de rayonsX,
-		//afficherTousLesPoissons();
+		    
+     		glEnable(GL_CLIP_PLANE0);
+
+			 // afficher les poissons en plein
+			 glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
+			 afficherTousLesPoissons();
+			 // afficher les poissons en fil de fer (squelette)
+			 // ...
+
+			 glDisable(GL_CLIP_PLANE0);
+			 glEnable(GL_CLIP_PLANE1);
+
+			 glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+			 afficherTousLesPoissons();
 
 
-		glUniform4fv(locplanRayonsX, 1, glm::value_ptr(Etat::planRayonsX)); //affecter au plan de rayon la valeur
+			 glDisable(GL_CLIP_PLANE1);
 
-		glEnable(GL_CLIP_PLANE0);
-
-		// afficher les poissons en plein
-		glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-		afficherTousLesPoissons();
-		// afficher les poissons en fil de fer (squelette)
-		// ...
-
-		glDisable(GL_CLIP_PLANE0);
-		glEnable(GL_CLIP_PLANE1);
-
-		glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-		afficherTousLesPoissons();
-
-
-		glDisable(GL_CLIP_PLANE1);
-
-		glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
-	}
-
+			 glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
+    }
 
     // afficher l'aquarium
     void afficher()
