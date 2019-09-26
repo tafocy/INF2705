@@ -21,18 +21,10 @@ void main( void )
     // transformation standard du sommet
     gl_Position = matrProj * matrVisu * matrModel * Vertex;
 
-
-
-
-	{
-        vec4 pos = matrModel * Vertex;
-		vec4 planCoupe = vec4( 1,0,0,0);
-        gl_ClipDistance[0] = dot(planCoupe, pos );
-		gl_ClipDistance[1]=-dot(planCoupe,pos);
-   }
-
-
-
+    vec4 pos = matrModel * Vertex;
+	gl_ClipDistance[0] = dot(planRayonsX, pos );
+	gl_ClipDistance[1]=-dot(planRayonsX,pos);
+   
     // couleur du sommet
     AttribsOut.couleur = Color;
 

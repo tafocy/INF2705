@@ -1,151 +1,151 @@
 ﻿  main.cpp
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(70): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(71): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(305): warning C4305: 'initialisation' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(360): warning C4305: 'initialisation' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(444): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(593): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(594): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(595): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(596): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(721): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(722): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(723): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(724): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(725): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(726): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(831): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(831): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(832): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(832): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(845): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(846): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(854): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(858): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(863): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(873): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(877): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(881): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(888): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(889): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(893): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(897): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(971): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(971): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(972): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(972): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(988): warning C4244: 'initialisation' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(990): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(990): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(994): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(994): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1075): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1075): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1076): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1076): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1079): warning C4244: 'initialisation' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1085): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1088): warning C4244: '=' : conversion de 'const GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1089): warning C4244: '=' : conversion de 'const GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1089): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1092): warning C4244: '+=' : conversion de 'const GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1094): warning C4244: '+=' : conversion de 'const GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1105): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1108): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1108): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1111): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1114): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1117): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1117): warning C4244: '=' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1188): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1188): warning C4244: 'initialisation' : conversion de 'double' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1189): warning C4244: 'initialisation' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1189): warning C4244: 'initialisation' : conversion de 'GLdouble' en 'const GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1193): warning C4244: 'initialisation' : conversion de 'GLdouble' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1199): warning C4244: 'initialisation' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1202): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\inf2705-forme.h(1203): warning C4244: '=' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\poisson.h(48): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\poisson.h(62): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\poisson.h(63): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\poisson.h(63): warning C4244: 'argument' : conversion de 'double' en 'GLfloat', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(26): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(32): warning C4244: 'initialisation' : conversion de 'genTypeT' en 'float', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(70): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(71): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(305): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(360): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(444): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(593): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(594): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(595): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(596): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(722): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(724): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(725): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(831): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(831): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(832): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(832): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(845): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(846): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(854): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(858): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(863): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(873): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(877): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(881): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(888): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(889): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(893): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(897): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(971): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(971): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(972): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(972): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(988): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(990): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(990): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(994): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(994): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1075): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1075): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1076): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1076): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1079): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1085): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1088): warning C4244: '=': conversion from 'const GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1089): warning C4244: '=': conversion from 'const GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1089): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1092): warning C4244: '+=': conversion from 'const GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1094): warning C4244: '+=': conversion from 'const GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1105): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1108): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1108): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1111): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1114): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1117): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1117): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1188): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1188): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1189): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1189): warning C4244: 'initializing': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1193): warning C4244: 'initializing': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1199): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1202): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\inf2705-forme.h(1203): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\poisson.h(48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\poisson.h(62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\poisson.h(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\poisson.h(63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(32): warning C4244: 'initializing': conversion from 'genTypeT' to 'float', possible loss of data
           with
           [
               genTypeT=double
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(34): warning C4244: 'initialisation' : conversion de 'genTypeT' en 'float', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(34): warning C4244: 'initializing': conversion from 'genTypeT' to 'float', possible loss of data
           with
           [
               genTypeT=int
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(36): warning C4244: 'initialisation' : conversion de 'genTypeT' en 'float', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(36): warning C4244: 'initializing': conversion from 'genTypeT' to 'float', possible loss of data
           with
           [
               genTypeT=double
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(37): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(39): warning C4244: 'initialisation' : conversion de 'genTypeT' en 'float', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(39): warning C4244: 'initializing': conversion from 'genTypeT' to 'float', possible loss of data
           with
           [
               genTypeT=double
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(152): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(154): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(156): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(158): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(213): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(222): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(231): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(241): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(338): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(339): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(340): warning C4244: '+=' : conversion de 'double' en 'T', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(152): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(154): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(156): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(158): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(227): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(236): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(245): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(255): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(352): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(353): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(354): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(346): warning C4244: '+=' : conversion de 'double' en 'T', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(360): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\aquarium.h(351): warning C4244: '+=' : conversion de 'double' en 'T', perte possible de données
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\aquarium.h(365): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(29): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(136): warning C4305: 'argument' : troncation de 'double' à 'GLclampf'
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(227): warning C4305: '-=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(136): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(227): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(232): warning C4305: '+=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(232): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(237): warning C4305: '+=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(237): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(241): warning C4305: '-=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(241): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(245): warning C4305: '+=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(245): warning C4305: '+=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\tp\tp2\tp2-miroirs\src\main.cpp(249): warning C4305: '-=' : troncation de 'double' à 'T'
+c:\users\cyfon\onedrive\documents\poly\automne2019\inf2705\inf2705\tp2\tp2-miroirs\src\main.cpp(249): warning C4305: '-=': truncation from 'double' to 'T'
           with
           [
               T=float
           ]
-  tp2_miroirs.vcxproj -> C:\Users\cyfon\OneDrive\Documents\Poly\Automne2019\INF2705\TP\TP2\tp2-miroirs\Debug\tp2_miroirs.exe
+  tp2_miroirs.vcxproj -> C:\Users\cyfon\OneDrive\Documents\Poly\Automne2019\INF2705\INF2705\TP2\tp2-miroirs\Debug\tp2_miroirs.exe

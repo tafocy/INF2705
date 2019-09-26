@@ -182,7 +182,8 @@ public:
 		// partie 1: modifs ici ...
 
 			 // afficher les poissons en plein et en fil de fer en tenant compte du plan de rayonsX,
-		    
+		
+			glUniform4fv(locplanRayonsX, 1, glm::value_ptr(Etat::planRayonsX));
      		glEnable(GL_CLIP_PLANE0);
 
 			 // afficher les poissons en plein
